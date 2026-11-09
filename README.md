@@ -15,7 +15,7 @@ I'm a developer from India. I mostly build Discord bots and web projects with Py
 - **[INFINITE](https://github.com/ayush7hx/INFINITE)** — a small Discord.js presence bot.
 - **[INF-AUTONICK](https://github.com/ayush7hx/INF-AUTONICK)** — nickname automation for new server members.
 
-Most of my other public repositories are smaller bot experiments and side projects; they're grouped with topics on the [repositories page](https://github.com/ayush7hx?tab=repositories).
+I also keep smaller bot experiments and side projects on the [repositories page](https://github.com/ayush7hx?tab=repositories).
 
 **Tools I use:** Python, JavaScript, Node.js, Discord.js, HTML and CSS.
 
