@@ -1,46 +1,85 @@
 <div align="center">
-  <img src="./assets/ayush-banner.svg" alt="Ayush Arya — Discord bots and software" width="100%" />
+  <img src="./assets/ayush-banner.svg" alt="Ayush Arya — Design, Code, Create" width="100%" />
+</div>
+
+<table>
+  <tr>
+    <td width="64%">
+      <img src="./assets/about-panel.svg" alt="About Ayush Arya" width="100%" />
+    </td>
+    <td width="36%">
+      <img src="./assets/learning-panel.svg" alt="Always learning" width="100%" />
+      <br />
+      <img src="./assets/craft-panel.svg" alt="Craft matters" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/stack-panel.svg" alt="Tools and technologies" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Ayush Arya <sup><code>@ayush7hx</code></sup></h1>
-  <p><strong>Developer · Discord bots · Web experiences</strong></p>
-  <p>Building useful bots and polished web projects with Python and JavaScript.</p>
-  <a href="https://discord.gg/ajhxf2qUd"><img alt="Join Dark Infinite" src="https://img.shields.io/badge/DARK%20INFINITE-Join%20the%20community-7C5CFC?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://ayush7hx.github.io/yoru/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore-3978FF?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://github.com/ayush7hx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.gg/ajhxf2qUd"><img alt="Discord" src="https://img.shields.io/badge/Dark%20Infinite-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/ayush7hx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.snapchat.com/@ayush7hx"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-111318?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+  <a href="https://guns.lol/ayush7hx"><img alt="All links" src="https://img.shields.io/badge/All%20links-7657E8?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="mailto:ayusharyaft63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-25232F?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
----
+<br />
 
-### ✦ About me
+<div align="center">
+  <sub>INDIA &nbsp;·&nbsp; BUILDING WITH CURIOSITY &nbsp;·&nbsp; OPEN TO GOOD IDEAS</sub>
+</div>
 
-I'm Ayush, a developer from India. I enjoy creating Discord bots, practical tools, and distinctive web experiences. I care about making projects useful, clear, and enjoyable to use.
+<br />
 
-- **Currently building:** Discord bots and web projects
-- **Working with:** Python · JavaScript · Node.js · HTML · CSS
-- **Community:** [Dark Infinite Discord](https://discord.gg/ajhxf2qUd)
+<div align="center">
+  <h2>SELECTED WORK</h2>
+  <sub>A few things I've been building</sub>
+</div>
 
-### ⌘ Featured projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ayush7hx/EVIE">EVIE</a></h3>
+      <p>Discord server structure backups and carefully previewed restores.</p>
+      <sub>JavaScript · Discord.js</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://ayush7hx.github.io/yoru/">YORU</a></h3>
+      <p>A dark, gothic-inspired personal portfolio and web experience.</p>
+      <sub>Web · Visual design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ayush7hx/TitanBot">TITANBOT</a></h3>
+      <p>A multipurpose Discord assistant built for server communities.</p>
+      <sub>Discord · Automation</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ayush7hx/Meekly-Discord-Bot">MEEKLY</a></h3>
+      <p>A Discord security and moderation bot project.</p>
+      <sub>Python · Discord</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is |
-| --- | --- |
-| [EVIE](https://github.com/ayush7hx/EVIE) | Discord server backup and restore bot with interactive restore options and role-permission support. |
-| [Yoru](https://ayush7hx.github.io/yoru/) | My dark, gothic-inspired personal portfolio. |
-| [TitanBot](https://github.com/ayush7hx/TitanBot) | Multipurpose Discord assistant for server communities. |
-| [Meekly](https://github.com/ayush7hx/Meekly-Discord-Bot) | Discord security and moderation bot project. |
+<div align="center">
+  <h2>ABOUT</h2>
+</div>
 
-### ⟡ Find me
+I'm Ayush Arya — a developer from India. I build Discord bots, practical tools, and web projects, with a soft spot for thoughtful interfaces and dark visual design.
 
+- **Currently exploring:** Discord automation, web experiences, and better project UX
+- **Languages & tools:** Python, JavaScript, Node.js, HTML, and CSS
 - **Portfolio:** [ayush7hx.github.io/yoru](https://ayush7hx.github.io/yoru/)
-- **Dark Infinite:** [Join the Discord server](https://discord.gg/ajhxf2qUd)
-- **Instagram:** [@ayush7hx](https://www.instagram.com/ayush7hx/)
-- **Snapchat:** [@ayush7hx](https://www.snapchat.com/@ayush7hx)
-- **More:** [guns.lol/ayush7hx](https://guns.lol/ayush7hx)
-- **Email:** [ayusharyaft63@gmail.com](mailto:ayusharyaft63@gmail.com)
-- **GitHub:** [github.com/ayush7hx](https://github.com/ayush7hx)
-
----
+- **Community:** [Join Dark Infinite](https://discord.gg/ajhxf2qUd)
+- **More about me:** [guns.lol/ayush7hx](https://guns.lol/ayush7hx)
 
 <div align="center">
-  <sub>Designed in midnight purple and electric blue · Built with curiosity</sub>
+  <sub>GOOD IDEAS DESERVE GOOD CRAFT.</sub>
 </div>
