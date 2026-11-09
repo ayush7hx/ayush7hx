@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Arya — Developer</title>
+  <desc id="desc">A custom midnight purple and electric blue abstract banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090817"/>
+      <stop offset="0.55" stop-color="#15102f"/>
+      <stop offset="1" stop-color="#07172c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.55" stop-color="#7c5cfc"/>
+      <stop offset="1" stop-color="#42c8ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6d4aff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#6d4aff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="930" cy="112" r="250" fill="url(#glow)"/>
+  <circle cx="1130" cy="270" r="180" fill="url(#glow)" opacity=".65"/>
+  <path d="M0 248 C210 172 310 320 520 230 S840 115 1200 205" fill="none" stroke="url(#line)" stroke-opacity=".32" stroke-width="2"/>
+  <path d="M0 275 C230 195 340 333 565 252 S900 152 1200 226" fill="none" stroke="#42c8ff" stroke-opacity=".16" stroke-width="1"/>
+  <g fill="#d9d4ff" opacity=".72">
+    <circle cx="805" cy="67" r="2"/><circle cx="866" cy="220" r="1.5"/><circle cx="1010" cy="75" r="1.5"/>
+    <circle cx="1080" cy="156" r="2"/><circle cx="730" cy="160" r="1.5"/><circle cx="950" cy="265" r="1.5"/>
+  </g>
+  <rect x="72" y="72" width="4" height="176" rx="2" fill="url(#line)"/>
+  <text x="104" y="137" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1">AYUSH ARYA</text>
+  <text x="107" y="178" fill="#b9b2df" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">DISCORD BOTS  ·  SOFTWARE  ·  WEB</text>
+  <text x="107" y="222" fill="#8e85bd" font-family="Consolas, monospace" font-size="16">@ayush7hx  /  INDIA</text>
+  <rect x="104" y="246" width="164" height="3" rx="1.5" fill="url(#line)"/>
+</svg>
