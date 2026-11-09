@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="30" y1="0" x2="1170" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101525"/>
+      <stop offset=".52" stop-color="#17152a"/>
+      <stop offset="1" stop-color="#24182b"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="236" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7161a7" stop-opacity=".04"/>
+      <stop offset=".52" stop-color="#b779a6" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#f0a7b5" stop-opacity=".08"/>
+    </linearGradient>
+    <linearGradient id="moon" x1="854" y1="71" x2="1048" y2="253" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff5ec"/>
+      <stop offset=".58" stop-color="#e6cbe8"/>
+      <stop offset="1" stop-color="#a88db9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 177 -205 0 962 164)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a989c5" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a989c5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#dac8e8" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="blur" x="735" y="0" width="465" height="345" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#sky)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#dbc8e8" stroke-opacity=".14"/>
+  <circle cx="962" cy="164" r="156" fill="url(#glow)" filter="url(#blur)"/>
+  <path d="M0 274c149-37 276-18 396 1 159 24 264-35 419-27 155 9 258 49 385 20v92H0v-86Z" fill="#171526"/>
+  <path d="M0 298c202-36 325-14 473 11 163 28 303-30 445-24 128 5 186 28 282 10v65H0v-62Z" fill="url(#horizon)"/>
+  <path d="M0 298c202-36 325-14 473 11 163 28 303-30 445-24 128 5 186 28 282 10v65H0v-62Z" fill="url(#grid)" opacity=".55"/>
+  <path d="M788 319c94-60 168-71 234-46 60 22 107 11 178-12v99H753l35-41Z" fill="#141523" fill-opacity=".72"/>
+  <circle cx="956" cy="156" r="83" fill="url(#moon)"/>
+  <path d="M974 85a83 83 0 0 0 25 147 83 83 0 1 1-25-147Z" fill="#766284" fill-opacity=".13"/>
+  <path d="M814 193c83-70 182-90 294-58" stroke="#f4dff2" stroke-opacity=".22" stroke-width="1.2"/>
+  <path d="M842 231c93-53 169-62 251-36" stroke="#f4dff2" stroke-opacity=".14" stroke-width="1"/>
+  <circle cx="1057" cy="133" r="3" fill="#fff1e9"/>
+  <circle cx="880" cy="110" r="2" fill="#fff1e9" fill-opacity=".8"/>
+  <circle cx="1096" cy="207" r="2" fill="#fff1e9" fill-opacity=".7"/>
+  <circle cx="827" cy="156" r="1.5" fill="#fff1e9" fill-opacity=".8"/>
+  <circle cx="1133" cy="96" r="1.5" fill="#fff1e9" fill-opacity=".75"/>
+  <circle cx="781" cy="226" r="1.5" fill="#fff1e9" fill-opacity=".7"/>
+  <circle cx="917" cy="63" r="1.5" fill="#fff1e9" fill-opacity=".7"/>
+  <circle cx="1020" cy="259" r="1.5" fill="#fff1e9" fill-opacity=".65"/>
+  <path d="M753 92h34M770 75v34" stroke="#d8c6e8" stroke-opacity=".4"/>
+  <path d="M1128 254h23M1139.5 242.5v23" stroke="#d8c6e8" stroke-opacity=".32"/>
+  <circle cx="1104" cy="79" r="2" fill="#f3c5d0">
+    <animate attributeName="opacity" values=".4;1;.4" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M717 110l-83 34" stroke="#f7d8ee" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0" keyTimes="0;.72;.76;1" dur="7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="45 -18;0 0;-85 34" keyTimes="0;.72;1" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="82" y="88" fill="#d9c8e7" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3.1">INDEPENDENT DEVELOPER  ·  INDIA</text>
+  <path d="M82 112h39" stroke="#c49abf" stroke-width="2"/>
+  <text x="78" y="184" fill="#fff8f4" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="1.2">AYUSH ARYA</text>
+  <text x="84" y="220" fill="#d8cada" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing=".35">Discord bots, useful tools &amp; small corners of the web.</text>
+  <rect x="82" y="251" width="111" height="29" rx="14.5" fill="#e8d8ea" fill-opacity=".08" stroke="#e8d8ea" stroke-opacity=".22"/>
+  <text x="101" y="270" fill="#efe2ef" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1">PYTHON</text>
+  <rect x="204" y="251" width="133" height="29" rx="14.5" fill="#e8d8ea" fill-opacity=".08" stroke="#e8d8ea" stroke-opacity=".22"/>
+  <text x="224" y="270" fill="#efe2ef" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1">JAVASCRIPT</text>
+  <rect x="348" y="251" width="114" height="29" rx="14.5" fill="#e8d8ea" fill-opacity=".08" stroke="#e8d8ea" stroke-opacity=".22"/>
+  <text x="368" y="270" fill="#efe2ef" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1">DISCORD</text>
+  <text x="82" y="329" fill="#d2bfd9" fill-opacity=".66" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">BUILD SMALL  ·  MAKE IT USEFUL</text>
+</svg>

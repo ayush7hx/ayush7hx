@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" fill="none">
+  <rect x=".5" y=".5" width="1199" height="117" rx="15" fill="#171725" stroke="#d9c9e8" stroke-opacity=".15"/>
+  <text x="28" y="34" fill="#cbbbd5" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2.2">TOOLS I REACH FOR</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#f1e8f1">
+    <rect x="28" y="52" width="141" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="49" cy="71.5" r="5" fill="#b9a2d6"/><text x="63" y="76">Python</text>
+    <rect x="181" y="52" width="162" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="202" cy="71.5" r="5" fill="#e1c98b"/><text x="216" y="76">JavaScript</text>
+    <rect x="355" y="52" width="139" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="376" cy="71.5" r="5" fill="#9dc8a8"/><text x="390" y="76">Node.js</text>
+    <rect x="506" y="52" width="163" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="527" cy="71.5" r="5" fill="#a5a9db"/><text x="541" y="76">Discord.js</text>
+    <rect x="681" y="52" width="133" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="702" cy="71.5" r="5" fill="#d6a293"/><text x="716" y="76">HTML</text>
+    <rect x="826" y="52" width="126" height="39" rx="19.5" fill="#252234" stroke="#d8c6e8" stroke-opacity=".18"/><circle cx="847" cy="71.5" r="5" fill="#9caada"/><text x="861" y="76">CSS</text>
+  </g>
+  <path d="M1013 71.5h150" stroke="#c5abc8" stroke-opacity=".18" stroke-linecap="round"/>
+  <circle cx="1013" cy="71.5" r="3" fill="#c3a2ce"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="1013" y="60" fill="#bdaec9" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1.4">ALWAYS LEARNING</text>
+</svg>

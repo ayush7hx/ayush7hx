@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="198" viewBox="0 0 560 198" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="198" gradientUnits="userSpaceOnUse"><stop stop-color="#1b2031"/><stop offset="1" stop-color="#292033"/></linearGradient><linearGradient id="line" x1="33" y1="0" x2="480" y2="0"><stop stop-color="#9c8ac6"/><stop offset="1" stop-color="#d89bad"/></linearGradient></defs>
+  <rect width="560" height="198" rx="14" fill="url(#bg)"/><rect x=".5" y=".5" width="559" height="197" rx="13.5" stroke="#d9c9e8" stroke-opacity=".16"/>
+  <circle cx="488" cy="49" r="68" fill="#b38ebc" fill-opacity=".07"/><circle cx="488" cy="49" r="42" stroke="#d9c4df" stroke-opacity=".1"/><circle cx="488" cy="49" r="27" stroke="#d9c4df" stroke-opacity=".14"/>
+  <path d="m488 29 18 10v20l-18 10-18-10V39l18-10Z" stroke="#e2d4eb" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M480 50h16m-8-8v16" stroke="#e2d4eb" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 29h34" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="88" fill="#fff8f4" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">APX</text>
+  <text x="32" y="117" fill="#ded3e4" font-family="Segoe UI,Arial,sans-serif" font-size="14">A Discord bot with a clear path to deployment.</text>
+  <text x="32" y="157" fill="#c0b1ce" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.5">HEALTH CHECKS  ·  RENDER SETUP</text>
+  <rect x="419" y="143" width="107" height="29" rx="14.5" fill="#f0d9eb" fill-opacity=".08" stroke="#f0d9eb" stroke-opacity=".2"/>
+  <text x="438" y="162" fill="#eddfeb" font-family="Segoe UI,Arial,sans-serif" font-size="11">PY  /  DISCORD.PY</text>
+</svg>

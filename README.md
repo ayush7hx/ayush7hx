@@ -1,71 +1,42 @@
 <div align="center">
-  <img src="./assets/ayush-banner.gif" alt="Ayush Arya — Discord bots and web projects" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Ayush Arya — independent developer in India, building Discord bots and web projects" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://ayush7hx.github.io/yoru/">PORTFOLIO</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://discord.gg/ajhxf2qUd">DARK INFINITE</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayush7hx/">INSTAGRAM</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.snapchat.com/@ayush7hx">SNAPCHAT</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ayusharyaft63@gmail.com">SAY HELLO</a>
+</p>
+
+<br />
+
+## A few things I've built
+
+<p align="center">
+  <a href="https://github.com/ayush7hx/EVIE"><img src="./assets/profile-evie.svg" alt="EVIE — Discord server backup and restore bot" width="49%" /></a>
+  <a href="https://github.com/ayush7hx/yoru"><img src="./assets/profile-yoru.svg" alt="Yoru — dark, gothic-inspired personal portfolio" width="49%" /></a>
+  <a href="https://github.com/ayush7hx/ROLE-EXP"><img src="./assets/profile-role-exp.svg" alt="ROLE-EXP — support tickets and role-change audit logs for Discord" width="49%" /></a>
+  <a href="https://github.com/ayush7hx/APX"><img src="./assets/profile-apx.svg" alt="APX — Python Discord bot with deployment setup and health checks" width="49%" /></a>
+</p>
+
+<p align="center">
+  <sub>More experiments: <a href="https://github.com/ayush7hx/INFINITE">INFINITE</a> · <a href="https://github.com/ayush7hx/INF-AUTONICK">INF-AUTONICK</a> · <a href="https://github.com/ayush7hx/7hx">7hx</a> · <a href="https://github.com/ayush7hx?tab=repositories">all repositories</a></sub>
+</p>
+
+<br />
+
 <div align="center">
-  <br />
-  <h1>Ayush Arya</h1>
-  <p><strong>Developer · India</strong></p>
-  <p>I build Discord bots and web projects, with a soft spot for dark interfaces and the details that make a tool feel good to use.</p>
-  <p>
-    <a href="https://ayush7hx.github.io/yoru/">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://discord.gg/ajhxf2qUd">Dark Infinite</a> &nbsp;·&nbsp;
-    <a href="https://www.instagram.com/ayush7hx/">Instagram</a> &nbsp;·&nbsp;
-    <a href="https://guns.lol/ayush7hx">More links</a>
-  </p>
+  <img src="./assets/profile-stack.svg" alt="Python, JavaScript, Node.js, Discord.js, HTML and CSS" width="100%" />
 </div>
 
 <br />
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayush7hx/EVIE">EVIE</a></h3>
-      <p>A Discord server backup and restore bot. Preview changes before restoring roles, channels, and permissions.</p>
-      <sub>JavaScript · Discord.js</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayush7hx/yoru">Yoru</a></h3>
-      <p>My personal portfolio: a dark, gothic-inspired web experience made to feel like its own little place.</p>
-      <sub>HTML · CSS · JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayush7hx/ROLE-EXP">ROLE-EXP</a></h3>
-      <p>A Discord bot for private support tickets and role-change audit logs.</p>
-      <sub>Python · Discord.py</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ayush7hx/APX">APX</a></h3>
-      <p>A Python Discord bot with a documented Render deployment setup and health checks.</p>
-      <sub>Python · Discord.py</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/ayush7hx?tab=repositories">Browse all repositories →</a></p>
-
-## Tools I use
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=9b8cff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1b1b2f?style=flat-square&logo=javascript&logoColor=9b8cff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-1b1b2f?style=flat-square&logo=nodedotjs&logoColor=9b8cff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Discord.js-1b1b2f?style=flat-square&logo=discord&logoColor=9b8cff" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-1b1b2f?style=flat-square&logo=html5&logoColor=9b8cff" alt="HTML and CSS" />
-</p>
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush7hx&bg_color=0d1117&color=c9c3e6&line=9b8cff&point=e5dcff&area=true&hide_border=true" alt="Ayush's GitHub contribution graph" width="100%" />
-</p>
-
 <div align="center">
-  <sub>Thanks for stopping by. If something here catches your eye, feel free to say hello.</sub>
-  <br /><br />
-  <a href="mailto:ayusharyaft63@gmail.com">Get in touch</a>
+  <sub>Made with curiosity, too many late-night ideas, and a lot of learning along the way.</sub>
 </div>
