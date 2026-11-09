@@ -30,12 +30,12 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/ayush7hx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/ajhxf2qUd"><img alt="Dark Infinite Discord" src="https://img.shields.io/badge/Dark%20Infinite-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.instagram.com/ayush7hx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.snapchat.com/@ayush7hx"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-111318?style=for-the-badge&logo=snapchat&logoColor=white"></a>
-  <a href="https://guns.lol/ayush7hx"><img alt="All links" src="https://img.shields.io/badge/All%20links-7657E8?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  <a href="mailto:ayusharyaft63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-25232F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ayush7hx"><img alt="GitHub" src="./assets/badge-github.gif" width="130"></a>
+  <a href="https://discord.gg/ajhxf2qUd"><img alt="Dark Infinite Discord" src="./assets/badge-discord.gif" width="130"></a>
+  <a href="https://www.instagram.com/ayush7hx/"><img alt="Instagram" src="./assets/badge-instagram.gif" width="130"></a>
+  <a href="https://www.snapchat.com/@ayush7hx"><img alt="Snapchat" src="./assets/badge-snapchat.gif" width="130"></a>
+  <a href="https://guns.lol/ayush7hx"><img alt="All links" src="./assets/badge-links.gif" width="130"></a>
+  <a href="mailto:ayusharyaft63@gmail.com"><img alt="Email" src="./assets/badge-email.gif" width="130"></a>
 </div>
 
 <br />
